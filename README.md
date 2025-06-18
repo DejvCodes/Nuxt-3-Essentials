@@ -5,7 +5,7 @@
 • Creating the Detail Page
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt)](https://skillicons.dev)
 
 ## 🔐 License
 [MIT License](LICENSE)
