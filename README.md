@@ -1,5 +1,5 @@
 ## Nuxt 3 Essentials - Vue Mastery
-• Installation and Configuration
+Installation and Configuration
 • Creating the URL Structure For Pages
 • Custom Layout and Landing Page Content
 • Creating the Detail Page
